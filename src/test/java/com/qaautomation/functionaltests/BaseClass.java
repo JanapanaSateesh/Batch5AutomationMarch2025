@@ -15,6 +15,7 @@ import com.qaautomation.utilities.ReadConfigData;
 public class BaseClass {
 
 	//public WebDriver driver;
+	//comment from git hub
 	public ReadConfigData readconfigdata;
 	
 	ThreadLocal<WebDriver> threadlocaldriver=new ThreadLocal<WebDriver>();
